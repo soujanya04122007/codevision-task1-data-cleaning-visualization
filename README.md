@@ -93,9 +93,15 @@ Through this task, I gained practical experience in:
 
 ▶️ How to Run
 
-Make sure Python is installed on your system.
+Step 1: Clone the Repository
 
-Run the main Python script using:
+git clone: https://github.com/soujanya04122007/codevision-task1-data-cleaning-visualization.git
+
+Step 2: Install Required Libraries
+
+pip install pandas numpy scikit-learn
+
+Step 3: Run the Python Script
 
 python task1.py
 
